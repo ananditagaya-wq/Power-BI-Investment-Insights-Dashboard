@@ -1,5 +1,4 @@
 📊 Investment Insights Dashboard – Power BI Project
-
 🔹 Project Overview
 
 This project analyzes investor behavior using Power BI, focusing on investment preferences, motivations, duration patterns, monitoring frequency, and information sources.
@@ -7,24 +6,35 @@ This project analyzes investor behavior using Power BI, focusing on investment p
 🔹 Key Features
 
 Data cleaning and transformation in Power Query
+
 DAX measures for ranking and dynamic insights
+
 Gender-based comparative analysis
+
 Objective-driven investment analysis
+
 Interactive dashboard with slicers
+
 Executive summary dashboard
 
 🔹 Tools Used
 
 Power BI
+
 DAX
+
 Power Query
+
 Data Visualization Techniques
 
 🔹 Key Insights
 
 Mutual Funds emerged as the most preferred investment avenue.
+
 Returns were the dominant investment motivation.
+
 Monthly monitoring behavior was most common.
+
 Financial consultants were the primary information source.
 
 <img width="1366" height="716" alt="image" src="https://github.com/user-attachments/assets/79f4de1f-05be-44d4-a62f-aaeaa62053a9" />
